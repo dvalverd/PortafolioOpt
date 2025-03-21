@@ -20,17 +20,16 @@ This is a Dash-based web application for portfolio optimization. It allows users
 
 ### Portfolio Optimization Inputs
 ![Portfolio Optimization Inputs](SC1.png)
-*This image shows the sidebar with all the inputs necessary for the portfolio optimization.*
+*Bar Side Inputs*
 
 ### Portfolio Growth Comparison
 ![Portfolio Growth Comparison](SC2.png)
-*This image shows the portfolio growth comparison with the benchmark using subplots.*
+*Dashboard*
 
 ### Portfolio Weights Pie Chart
 ![Portfolio Weights Pie Chart](SC3.png)
-*This image shows the portfolio weights pie chart.*
+*Dashboard Continued*
 
-**(Replace `path/to/image1.png`, `path/to/image2.png`, and `path/to/image3.png` with the actual paths to your screenshots.)**
 
 ## Getting Started
 
